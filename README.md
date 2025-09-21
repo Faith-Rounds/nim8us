@@ -185,12 +185,8 @@ By combining these blockchain technologies, nim8us creates an unbroken chain of 
 
 ### Screenshots
 
-<!-- Add your screenshots here, for example: -->
+- <img width="1026" height="888" alt="Screenshot 2025-09-21 at 11 51 21 AM" src="https://github.com/user-attachments/assets/e2c2e026-9c8d-40c6-a372-70ff8d72af46" />
 
-#### Verification Flow
+- <img width="1099" height="835" alt="Screenshot 2025-09-21 at 11 51 33 AM" src="https://github.com/user-attachments/assets/7336db1f-3fc5-4d93-9697-2914b95a50db" />
 
-![Verification Screenshot](path/to/verification-screenshot.png) <!-- Replace with actual screenshot path -->
-
-#### Certification Process
-
-![Certification Screenshot](path/to/certification-screenshot.png) <!-- Replace with actual screenshot path -->
+- <img width="1096" height="877" alt="Screenshot 2025-09-21 at 11 51 10 AM" src="https://github.com/user-attachments/assets/93335146-7838-4fc6-8d81-2d41677b0091" />
