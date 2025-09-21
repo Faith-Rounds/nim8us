@@ -186,7 +186,7 @@ By combining these blockchain technologies, nim8us creates an unbroken chain of 
 
 ### Code Walkthrough
 
-[Watch Full Demo Video]([https://drive.google.com/file/d/1rDA7Vr4vZxzWBAA8NRIM_i8i2Kpt7KI2/view?usp=sharing](https://drive.google.com/file/d/1nQRKyui01OQub_WetWPRl7DicLAXHKBc/view?usp=sharing))
+[Watch Full Code Walkthrough](https://drive.google.com/file/d/1nQRKyui01OQub_WetWPRl7DicLAXHKBc/view?usp=sharing)
 
 ### Screenshots
 
