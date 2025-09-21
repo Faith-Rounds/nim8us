@@ -1,0 +1,8 @@
+This would be a genuine photo that shows "VERIFIED" in the demo.
+When uploading this image in the demo, the system would identify it as authentic.
+
+Example photo types:
+- Professional news photo
+- Company press photo
+- Product shot
+- Team photo

@@ -1,0 +1,8 @@
+This would be a completely AI-generated image that shows "UNKNOWN" in the demo.
+When uploading this image, the system would indicate it has no provenance record.
+
+Example types:
+- AI-generated portrait or scene
+- Synthetic image created with tools like Midjourney/DALL-E
+- Deep learning generated content
+- Completely fabricated scene

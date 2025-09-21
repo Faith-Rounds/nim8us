@@ -1,0 +1,8 @@
+This would be a previously verified image that shows "REVOKED" in the demo.
+When uploading this image, the system would indicate it was once verified but has been revoked.
+
+Example scenarios:
+- Content that violated copyright
+- Image published with errors
+- Content that became obsolete/outdated
+- Image withdrawn by the original publisher

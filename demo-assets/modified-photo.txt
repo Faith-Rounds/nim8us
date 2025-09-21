@@ -1,0 +1,8 @@
+This would be a modified or manipulated photo that shows "MODIFIED" in the demo.
+When uploading this image, the system would detect alterations from an original.
+
+Example types:
+- Photo with objects/people added
+- Photo with elements removed
+- Color/lighting substantially altered
+- AI-generated modifications to a real photo
